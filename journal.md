@@ -17,4 +17,5 @@ John ran his atmospheric model to simulate SOA formation
 Measurements were made using an AMS, as described in Allen et al 2003.
 
 #Results
-The simulations reproduced the measurements nicely, supporting the formation process proposed in our previous paper.
+The simulations reproduced the measurements nicely, supporting the formation process proposed in our previous paper. 
+However, we still haven't answered questions on particle density, so we will not retire yet.
