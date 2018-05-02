@@ -15,3 +15,6 @@ John ran his atmospheric model to simulate SOA formation
 
 #Methodology
 Measurements were made using an AMS, as described in Allen et al 2003.
+
+#Results
+The simulations reproduced the measurements nicely, supporting the formation process proposed in our previous paper.
