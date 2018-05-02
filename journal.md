@@ -2,8 +2,8 @@
 Measurement-model comparison of secondary organic aerosol fomration over West Africa
 
 # Authors
-Joe Bloggs
-James Parkinson
+Joe Bloggs, University of Birmingham
+James Parkinson, University of Manchester
 
 #Abstract
 Leave this until last because its hardest to write.
