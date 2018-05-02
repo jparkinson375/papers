@@ -21,3 +21,6 @@ The simulations reproduced the measurements nicely, supporting the formation pro
 
 #Conclusions
 We did the science. New insights into particle formation were discovered.
+
+#Figures
+This is where the figures go in our draft paper.
