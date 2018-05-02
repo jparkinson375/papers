@@ -1,5 +1,5 @@
 # Title
-Measurement-model comparison of secondary organic aerosol fomration over West Africa
+Measurement-model comparison of secondary organic aerosol fomration over Australia
 
 # Authors
 Joe Bloggs, University of Birmingham
