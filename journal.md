@@ -18,3 +18,6 @@ Measurements were made using an AMS, as described in Allen et al 2003.
 
 #Results
 The simulations reproduced the measurements nicely, supporting the formation process proposed in our previous paper.
+
+#Conclusions
+We did the science. New insights into particle formation were discovered.
